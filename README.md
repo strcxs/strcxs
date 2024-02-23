@@ -21,7 +21,7 @@ Explore some of my noteworthy projects:
 
 - **Languages:** PHP, Python
 - **Database:** SQL
-- **Frameworks:** Laravel
+- **Frameworks:** Laravel, Bootstrap
 - **Web Technologies:** Ajax
 
 <!--
