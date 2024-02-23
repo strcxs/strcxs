@@ -31,7 +31,7 @@ Explore some of my noteworthy projects:
 
 ## Let's Connect!
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rullydfaishal/) for professional discussions or shoot me an [Email](rdf.faishal@gmail.com) for any queries!
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rullydfaishal/) for professional discussions or shoot me an [Email](mailto:rdf.faishal@gmail.com) for any queries!
 
 Thanks for visiting and exploring my coding journey. Let's create something amazing together! 🚀
 
