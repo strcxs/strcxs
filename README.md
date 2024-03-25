@@ -19,7 +19,7 @@ Explore some of my noteworthy projects:
 
 ## Skills Snapshot
 
-- **Languages:** PHP, Python, Java Script
+- **Languages:** PHP, Python, JavaScript
 - **Database:** SQL
 - **Frameworks:** Laravel, Bootstrap
 - **Web Technologies:** Ajax
